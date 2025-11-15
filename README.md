@@ -6,4 +6,4 @@ This project was created to help detect heart disease at an early stage using ma
 
 ## Goal of the project:
 
-The goal of this project is to develop a reliable and accurate heart disease prediction system that can be used by medical professionals to assist in early diagnosis and clinical decision-making.
+The goal of this project is to develop a reliable and accurate heart disease prediction system, that can be used by medical professionals to assist in early diagnosis and clinical decision-making.
